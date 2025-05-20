@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="next_question">Next Question</string>
+    <string name="False">False</string>
+    <string name="TRUE">True</string>
+    <string name="restart_game">Restart Game</string>
+    <string name="score">Score: %1$s</string>
 </resources>
